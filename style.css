@@ -398,7 +398,7 @@ h2{
     margin-top: 40px;
 }
 
- RESPONSIVE CODE
+/* RESPONSIVE CODE*/
 @media (max-width: 1024px) {
     .navbar {
         flex-wrap: wrap;
